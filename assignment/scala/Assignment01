@@ -1,2 +1,6 @@
 1.安装Scala version 2.10.4
 2.编写一个helloWorld代码，能够使用scalac, javap 等控制台命令编译解析
+
+3.编写一个十进制和十六进制整数相互转换的方法，方法名分别为：
+def toHexInt(v: Int) = ???
+def toInt(hexInt: Int) = ???
