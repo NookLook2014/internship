@@ -1,0 +1,2 @@
+1.安装Scala version 2.10.4
+2.编写一个helloWorld代码，能够使用scalac, javap 等控制台命令编译解析
